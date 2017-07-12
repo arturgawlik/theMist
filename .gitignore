@@ -270,4 +270,4 @@ __pycache__/
 # tools/
 
 #added by myself
-.DS_Store
+*.DS_Store
