@@ -1,2 +1,2 @@
 # theMist
-open-source api 
+open-source, dotnet core based api for simple social network site.
