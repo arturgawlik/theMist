@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../theMist.Core/theMist.Core.csproj" />
+  </ItemGroup>
+
 </Project>

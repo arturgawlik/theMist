@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
+    <ProjectReference Include="../theMist.Infrastructure/theMist.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>
